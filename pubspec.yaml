@@ -1,7 +1,7 @@
 name: flutter_inputs
 description: A new flutter plugin project.
 version: 0.0.1
-homepage: git remote add origin git@github.com:bynicodevelop/flutter_inputs.git
+homepage: https://github.com/bynicodevelop/flutter_inputs
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
